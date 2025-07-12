@@ -1,0 +1,78 @@
+@import "tailwindcss";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Basic global styles */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  background-color: #f4f7f6;
+  color: #333;
+}
+
+/* Container for consistent page width */
+.container {
+  max-width: 1200px; /* Or your preferred max-width */
+}
+
+/* Basic Quill styles to make content visible */
+.ql-editor {
+  min-height: 150px; /* Ensure editor has a visible height */
+  background-color: #fff;
+  border-radius: 0.25rem;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+}
+
+.ql-toolbar {
+  border-radius: 0.25rem;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  background-color: #f9fafb;
+}
+
+.ql-container {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+/* Prose for rich text content display */
+.prose {
+  line-height: 1.6;
+}
+
+.prose p {
+  margin-bottom: 1em;
+}
+
+.prose ul, .prose ol {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  padding-left: 1.5em;
+}
+
+.prose li {
+  margin-bottom: 0.5em;
+}
+
+.prose strong {
+  font-weight: bold;
+}
+
+.prose em {
+  font-style: italic;
+}
+
+.prose a {
+  color: #2563eb; /* Blue for links */
+  text-decoration: underline;
+}
+
+.prose img {
+  max-width: 100%;
+  height: auto;
+  display: block; /* Remove extra space below image */
+  margin: 1em 0;
+  border-radius: 0.25rem;
+}
