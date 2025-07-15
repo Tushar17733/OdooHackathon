@@ -1,20 +1,25 @@
-Team Members:
+# Team Members for Odoo Hackathon:
 
-1) Shubham Yadav
+## 1) Shubham Yadav
    
 shubhamyadavsh200109@gmail.com
 
-2) Poriya Tushar
+## 2) Poriya Tushar
    
 poriyatushar1@gmail.com
 
-3) Deshmukh Himani
+## 3) Deshmukh Himani
    
 deshmukhhimani1@gmail.com
 
-4) Vivekananda Pamidi
+## 4) Vivekananda Pamidi
    
 vivekpamidi9666@gmail.com
+
+<!-- This is a blank line below the heading -->
+
+
+
 # StackIt – Minimal Q&A Platform with Rich Editor, Voting, and Notifications
 
 StackIt – Project name
@@ -29,7 +34,7 @@ Notifications – user engagement system
 
 
 
-✨ Core Features
+## ✨ Core Features
 
 ✅ *Ask Question*  
 - Title, rich text description, and tags
@@ -57,6 +62,7 @@ Notifications – user engagement system
   - Someone answers your question
   - Someone comments on your answer
   - Someone mentions you with @username
+
 
 
 
