@@ -13,11 +13,9 @@ poriyatushar1@gmail.com
 deshmukhhimani1@gmail.com
 
 ## 4) Vivekananda Pamidi
-   
 vivekpamidi9666@gmail.com
 
-<!-- This is a blank line below the heading -->
-
+&nbsp;
 
 
 # StackIt – Minimal Q&A Platform with Rich Editor, Voting, and Notifications
@@ -33,6 +31,7 @@ Voting – upvote/downvote functionality
 Notifications – user engagement system
 
 
+&nbsp;
 
 ## ✨ Core Features
 
@@ -64,7 +63,8 @@ Notifications – user engagement system
   - Someone mentions you with @username
 
 
-
+&nbsp;
+&nbsp;
 
 
 ![WhatsApp Image 2025-07-12 at 15 52 15_48572c3f](https://github.com/user-attachments/assets/51e7ad0d-73f4-4d68-b1d3-e5016f4cd49b)
